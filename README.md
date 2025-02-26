@@ -9,7 +9,7 @@
 #### 1 HTML - Para a estrutura da página.
 #### 2 CSS - Para a estilização da interface.
 #### 3 JavaScript - Para as requisições.
-#### 4 Fetch API → Para buscar e enviar dados para a API do The Cat API.
+#### 4 Fetch API - Para buscar e enviar dados para a API do The Cat API.
 
 ### Referências
 
